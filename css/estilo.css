@@ -9,3 +9,10 @@ body{
     height: 300px;
     margin: auto;
 }
+.box2{
+    background-color: rgb(226, 43, 202);
+    border: solid;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
